@@ -169,8 +169,13 @@ li{
     margin-left: 2vw;
 }
 @media (max-width: 450px) {
+    .career .care{
+        flex-direction: row;
+        margin-left: 1.5vw;
+    }
     .career .care li{
-        font-size: 10px;
+        margin-left: -20px;
+        font-size: 12px;
     }
 }
 .career .care ul{
