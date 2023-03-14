@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kaan-page/static/css/main.81d7fc68.css",
-    "main.js": "/kaan-page/static/js/main.f37fa755.js",
+    "main.css": "/kaan-page/static/css/main.931ce417.css",
+    "main.js": "/kaan-page/static/js/main.7d9471ec.js",
     "static/js/787.d3428903.chunk.js": "/kaan-page/static/js/787.d3428903.chunk.js",
     "static/media/tree.jpg": "/kaan-page/static/media/tree.d691eaf107eb0c05f92d.jpg",
     "index.html": "/kaan-page/index.html",
-    "main.81d7fc68.css.map": "/kaan-page/static/css/main.81d7fc68.css.map",
-    "main.f37fa755.js.map": "/kaan-page/static/js/main.f37fa755.js.map",
+    "main.931ce417.css.map": "/kaan-page/static/css/main.931ce417.css.map",
+    "main.7d9471ec.js.map": "/kaan-page/static/js/main.7d9471ec.js.map",
     "787.d3428903.chunk.js.map": "/kaan-page/static/js/787.d3428903.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81d7fc68.css",
-    "static/js/main.f37fa755.js"
+    "static/css/main.931ce417.css",
+    "static/js/main.7d9471ec.js"
   ]
 }
